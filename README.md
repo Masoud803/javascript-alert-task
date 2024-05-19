@@ -1,1 +1,1 @@
-# javascript-alert-task
+# Repository for SMIT assignment alert exercise
