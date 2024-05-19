@@ -1,1 +1,1 @@
-# Repository for SMIT assignment alert exercise
+# Repository for SMIT assignment javascript alert exercise
